@@ -3,6 +3,9 @@
 //memoization--->top down(recursion)
 //DP--->Dividing the entire problem into sub problem and solving each sub problem and storing in DP array
 
+//RECOGNIZE DP PROBLEMS
+1.When we have multiple ways to solve the problem / all possible ways  and we have to count the number of ways or find the best way
+
 //Nth FABINOCCII number using DP using memoization
 #include <bits/stdc++.h>
 using namespace std;
